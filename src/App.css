@@ -1,0 +1,14 @@
+.footer {
+  position: absolute;
+  width: 100%;
+  height: 25px;
+  text-align: center;
+}
+
+input:invalid {
+  border: 2px dashed red;
+}
+
+input:valid {
+  border: 2px solid black;
+}
